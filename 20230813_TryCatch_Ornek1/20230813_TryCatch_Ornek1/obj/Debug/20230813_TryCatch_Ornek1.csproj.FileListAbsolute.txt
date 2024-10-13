@@ -1,0 +1,8 @@
+C:\Users\sadullah.sener\source\repos\20230813_TryCatch_Ornek1\20230813_TryCatch_Ornek1\bin\Debug\20230813_TryCatch_Ornek1.exe.config
+C:\Users\sadullah.sener\source\repos\20230813_TryCatch_Ornek1\20230813_TryCatch_Ornek1\bin\Debug\20230813_TryCatch_Ornek1.exe
+C:\Users\sadullah.sener\source\repos\20230813_TryCatch_Ornek1\20230813_TryCatch_Ornek1\bin\Debug\20230813_TryCatch_Ornek1.pdb
+C:\Users\sadullah.sener\source\repos\20230813_TryCatch_Ornek1\20230813_TryCatch_Ornek1\obj\Debug\20230813_TryCatch_Ornek1.csproj.AssemblyReference.cache
+C:\Users\sadullah.sener\source\repos\20230813_TryCatch_Ornek1\20230813_TryCatch_Ornek1\obj\Debug\20230813_TryCatch_Ornek1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadullah.sener\source\repos\20230813_TryCatch_Ornek1\20230813_TryCatch_Ornek1\obj\Debug\20230813_TryCatch_Ornek1.csproj.CoreCompileInputs.cache
+C:\Users\sadullah.sener\source\repos\20230813_TryCatch_Ornek1\20230813_TryCatch_Ornek1\obj\Debug\20230813_TryCatch_Ornek1.exe
+C:\Users\sadullah.sener\source\repos\20230813_TryCatch_Ornek1\20230813_TryCatch_Ornek1\obj\Debug\20230813_TryCatch_Ornek1.pdb
